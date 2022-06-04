@@ -1,2 +1,3 @@
-# Libros_pdf
-Libros en pdf
+# Libros en pdf
+
+Recopilación de libros sobre programación
